@@ -75,6 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FoxcraftProject"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://spikey.biz/discord"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -98,6 +101,9 @@ footer:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://craftodon.social/@Foxcraft"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://spikey.biz/discord"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -183,8 +189,8 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : 6Ld2toQeAAAAAGpjz7Vh6Ht0vvKp6GkPDcfqbGir
+  secret                 : ${{ secrets.GOOGLE_RECAPTCHA }}
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
