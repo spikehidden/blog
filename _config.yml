@@ -78,34 +78,6 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-data:
-  authors:
-    spikey:
-      name   : "Spikey"
-      avatar : "https://cdn.discordapp.com/avatars/337179325612687360/9e707a272b81a4ab33b0be28785240d3.png?size=1024"
-      bio    : "Ich bin Spikey ein Silberfuchs, welcher regelmäßig Minecraft, Super Animal Royale und viele weitere Games auf Twitch streamt."
-      links:
-        - label: "Website"
-          icon: "fas fa-fw fa-link"
-          url: "https://spikehidden.de"
-        - label: "Twitter"
-          icon: "fab fa-fw fa-twitter-square"
-          url: "https://twitter.com/spikehidden"
-        - label: "Mastodon"
-          icon: "fab fa-fw fa-mastodon"
-          url: "https://red.fox.yt/@spikehidden"
-        - label: "GitHub"
-          icon: "fab fa-fw fa-github"
-          url: "https://github.com/spikehidden"
-        - label: "Twitch"
-          icon: "fab fa-fw fa-twitch"
-          url: "https://twitch.tv/spikehidden"
-        - label: "YouTube"
-          icon: "fab fa-fw fa-youtube"
-          url: "https://youtube.com/@spikehidden_mc"
-        - label: "Instagram"
-          icon: "fab fa-fw fa-instagram"
-          url: "https://instagram.com/spikehidden"
 
 hyperlink:
   foxcraft: "[Foxcraft.biz](https://foxcraft.biz)"
