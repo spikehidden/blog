@@ -9,7 +9,7 @@ tags:
   - Blog
   - Foxcraft
   - Allgemein
-author: "{{ site.author_spikey }}"
+author: "spikey"
 ---
 
 Hey Leute!  
