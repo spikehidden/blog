@@ -179,10 +179,10 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : R_kgDOImhuzQ # Shown during giscus setup at https://giscus.app
-    category_name        : "Blog Comments" # Full text name of the category
-    category_id          : DIC_kwDOImhuzc4CTCjD # Shown during giscus setup at https://giscus.app
-    discussion_term      : pathname # "pathname" (default), "url", "title", "og:title"
+    repo_id              : "R_kgDOImhuzQ" # Shown during giscus setup at https://giscus.app
+    category_name        : "Comments" # Full text name of the category
+    category_id          : "DIC_kwDOImhuzc4CTCxd" # Shown during giscus setup at https://giscus.app
+    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
     theme                : transparent_dark # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
