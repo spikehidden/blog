@@ -7,6 +7,23 @@ tags:
   - Post Formats
   - readability
   - standard
+author:
+  name   : "Help me!"
+  avatar : "/assets/favicons/android-chrome-512x512.png"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://foxcraft.biz"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/FoxcraftProject"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/FoxcraftProject"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 ---
 
 This post has been updated and should show a modified date if used in a layout.
