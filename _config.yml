@@ -214,4 +214,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-4HRFRB0MW8"
+    anonymize_ip         : true # true, false (default)
+
 github: [metadata]
