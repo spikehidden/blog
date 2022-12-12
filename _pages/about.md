@@ -1,8 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "Über uns"
+comments: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Foxcraft ist der offizielle Minecraft Community Server des Furry Content Creators [Spikehidden](https://spikey.biz/twitch) (aka Spikey).\
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Foxcraft bietet viele Features wie z.B. Crossplay zwischen der Bedrock & Java Edition zusammen mit vielen Plugins worunter auch Towny fällt. Dazu kommen noch selbstgeschiriebene Denizenscripte, wovon ein paar sogar [hier](https://spikey.biz/github) zu finden sind.
+
+Der Server wird von SPikey alleine finanziert und gewartet, während er noch nebenbei auf [Twitch](https://spikey.biz/twitch) streamt, Bugs ausbügelt und Videos für [YouTube](https://youtube.com/@spikehidden_mc) produziert. Viel Arbeit für nur einen Fuchs.
+
+Falls du fragen hast stelle sie doch in den Kommentaren auf dieser Seite.
