@@ -15,10 +15,10 @@ author: {{ site.author_spikey }}
 Hey Leute!  
 Wilkommen in unserem neuen und auch ersten Blog für unseren Minecraft Server {{ site.hyperlink.foxcraft }}.
 
-## Wozu dieser Blog?
+<h2>Wozu dieser Blog?</h2>
 
 Auf jeden Fall toll, dass ihr her gefunden habt!\
-Wir haben vor bestimmte Neuigkeiten neben unseren [Discord Server]({{site.links.discord}}), [Twitter](https://twitter.com/{{site.twitter_username}}) und [Mastodon]({{site.mastodon.instance}}/@{{site.mastodon.username}}) hier anzukündigen, da viele nicht Twitter, Mastodon bzw. Discord nutzen wollen oder uns dort folgen möchten. Exklusive Codes werden natürlich dennoch immer noch auf diesen Platformen verteilt.
+Wir haben vor bestimmte Neuigkeiten neben unseren [Discord Server]({{ site.links.discord }}), [Twitter](https://twitter.com/{{ site.twitter_username }}) und [Mastodon]({{ site.mastodon.instance }}/@{{ site.mastodon.username }}) hier anzukündigen, da viele nicht Twitter, Mastodon bzw. Discord nutzen wollen oder uns dort folgen möchten. Exklusive Codes werden natürlich dennoch immer noch auf diesen Platformen verteilt.
 
 <!--more-->
 
