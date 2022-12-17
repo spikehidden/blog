@@ -1,13 +1,13 @@
 ---
-title: "Unser neuer Blog!"
-date: 2022-12-12 20:15:00
+title: "Mein neuer Blog!"
+date: #2022-12-12 20:15:00
 # last_modified_at: 2016-03-09T16:20:02-05:00
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - Blog
-  - Foxcraft
+  - Spikey
   - Allgemein
 author: "spikey"
 ---

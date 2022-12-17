@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Foxcraft Blog
-email: info@foxcraft.biz
+title: Spikeys Blog
+email: info@spikehidden.de
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: FoxcraftProject
 github_username: FoxcraftProject
 mastodon:
-  instance: "https://craftodon.social"
-  username: "foxcraft"
+  instance: "https://red.fox.yt"
+  username: "spikehidden"
 minimal_mistakes_skin: dark
 search: true
 
@@ -61,46 +61,61 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Foxcraft Project"
-  avatar : "/assets/favicons/android-chrome-512x512.png"
-  bio    : "Foxcraft ist der offizielle Minecraft Crossplay Community Server von Spikehidden."
-  email  : "info@foxcraft.biz"
+  name   : "Spikey"
+  avatar : "https://cdn.discordapp.com/avatars/337179325612687360/9e707a272b81a4ab33b0be28785240d3.png?size=1024"
+  bio    : "Ich bin Spikey ein Silberfuchs, welcher regelmäßig Minecraft, Super Animal Royale und viele weitere Games auf Twitch streamt."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://foxcraft.biz"
+      url: "https://spikehidden.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FoxcraftProject"
+      url: "https://twitter.com/spikehidden"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://red.fox.yt/@spikehidden"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/FoxcraftProject"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://spikey.biz/discord"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      url: "https://github.com/spikehidden"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.tv/spikehidden"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@spikehidden_mc"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/spikehidden"
 
 hyperlink:
   foxcraft: "[Foxcraft.biz](https://foxcraft.biz)"
 links:
   discord: "https://spikey.biz/discord"
+  foxcraft: "https://foxcraft.biz"
 
 footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://foxcraft.biz"
+      url: "https://spikehidden.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FoxcraftProject"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/FoxcraftProject"
+      url: "https://twitter.com/spikehidden"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://craftodon.social/@Foxcraft"
+      url: "https://red.fox.yt/@spikehidden"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/spikehidden"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.tv/spikehidden"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@spikehidden_mc"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/spikehidden"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://spikey.biz/discord"
@@ -137,31 +152,34 @@ tag_archive:
 
 # Social Sharing
 twitter:
-  username               : FoxcraftProject
+  username               : spikehidden
 # og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type: Organization # Person or Organization (defaults to Person)
-  name: Foxcraft # If the user or organization name differs from the site's name
+  type: Person # Person or Organization (defaults to Person)
+  name: Spikey # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - "https://twitter.com/FoxcraftProject"
-  - "https://craftodon.social/@foxcraft"
+  - "https://twitter.com/spikehidden"
+  - "https://red.fox.yt/@spikehidden"
+  - "https://instagram.com/spikehidden"
+  - "https://youtube.com/@spikehidden"
+  - "https://youtube.com/@spikehidden_mc"
 
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Foxcraft Blog"
+title                    : "Spikeys Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Foxcraft.biz Blog"
+name                     : "Spikeys Blog"
 description              : "Der Ort an dem du alle Neuigkeiten zu Foxcraft.biz findest!"
-url                      : "https://blog.foxcraft.biz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.spikehidden.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "foxcraftproject/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "spikehidden/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://foxcraft.biz/img/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : Blog # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/favicons/apple-touch-icon-180x180.png" #/assets/favicons/mstile-144x144.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : Spikey's Blog # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -179,9 +197,9 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : "R_kgDOImhuzQ" # Shown during giscus setup at https://giscus.app
-    category_name        : "Comments" # Full text name of the category
-    category_id          : "DIC_kwDOImhuzc4CTCxd" # Shown during giscus setup at https://giscus.app
+    repo_id              : "R_kgDOIoiVAw" # Shown during giscus setup at https://giscus.app
+    category_name        : "Blog Comments" # Full text name of the category
+    category_id          : "DIC_kwDOIoiVA84CTH3n" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
     theme                : transparent_dark # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
@@ -189,8 +207,8 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                : 6Ld2toQeAAAAAGpjz7Vh6Ht0vvKp6GkPDcfqbGir
-  secret                 : ${{ secrets.GOOGLE_RECAPTCHA }}
+  siteKey                : 
+  secret                 : 
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -215,9 +233,9 @@ yandex_site_verification :
 baidu_site_verification  :
 
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-4HRFRB0MW8"
+    tracking_id          : 
     anonymize_ip         : true # true, false (default)
 
 github: [metadata]

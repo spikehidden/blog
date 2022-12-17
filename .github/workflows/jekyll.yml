@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  PAGES_REPO_NWO: FoxcraftProject/blog
+  PAGES_REPO_NWO: spikehidden/blog
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
