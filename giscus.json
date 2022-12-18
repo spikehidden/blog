@@ -1,4 +1,7 @@
 {
-    "origins": ["https://blog.foxcraft.biz"],
+    "origins": [
+        "https://blog.spikehidden.de",
+        "https://blog.spikey.biz"
+    ],
     "defaultCommentOrder": "newest"
 }
