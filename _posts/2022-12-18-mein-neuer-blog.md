@@ -16,7 +16,7 @@ Hey Flauschies und Nicht-Flauschies!
 
 Das hier ist der erste Post in meinem Blog, aber jene welche mich bereits kennen Fragen sich wahrscheinlich:
 > "*Warum mache ich überhaupt einen Blog wenn ich mit 
-> [![Foxcraft]({{ site.data.img.logo.foxcraft }}){: height="10px" }]({{ site.data.links.foxcraft.site }}),
+> [![Foxcraft]({{ site.data.img.logo.foxcraft }}){: height="10" }]({{ site.data.links.foxcraft.site }}),
 > [Twitch]({{ site.data.links.twitch }}),
 > [YouTube]({{ site.data.links.youtube.minecraft }})
 > und dem
