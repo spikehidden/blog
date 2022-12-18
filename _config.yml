@@ -16,11 +16,9 @@
 title: Spikeys Blog
 email: info@spikehidden.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: FoxcraftProject
-github_username: FoxcraftProject
+  Spikeys Blog voller Game Reviews, Meinungen, Kunst und ganz wichtig ganz viel FLAUSCH 🦊!!!
+twitter_username: spikehiddeb
+github_username: spikehidden
 mastodon:
   instance: "https://red.fox.yt"
   username: "spikehidden"
