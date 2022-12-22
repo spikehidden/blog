@@ -1,7 +1,8 @@
 spikey:
   name   : "Spikey"
-  avatar : "{{ site.data.img64.spikey_avatar_winter }}"
+  avatar : {{ site.data.img64.spikey_avatar_winter }}
   bio    : "Ich bin Spikey ein Silberfuchs, welcher regelmäßig Minecraft, Super Animal Royale und viele weitere Games auf Twitch streamt."
+  home   : "/about"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
