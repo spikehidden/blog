@@ -1,6 +1,8 @@
 {% assign pre_author = page.author | default: page.authors[0] | default: site.author | liquify %}
 {% assign pre_author = site.data.authors[author] | default: pre_author %}
+
 {% capture avatar %}{{ author.avatar | liquify }}{% endcapture %}
+
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   {% if author.avatar %}
