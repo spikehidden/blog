@@ -18,12 +18,19 @@ DreamWorks)*.
 
 ## Meine Fursona - Triff Spikey!
 
-Spikey ist natürlich nicht mein echter Name sondern der meiner Fusona.
+Spikey ist natürlich nicht mein echter Name sondern der meiner Fusona.\
+Bei Spikey handelt es sich um einen anthropomorphen Silberfuchs mit Schwarz-Grauen Fell, blauen Augen und einer Weißen Schweifspitze.\
+Aber am besten seht ihr euch einfach die Bilder unten an.
 
 ## Was ist eine Fursona?
 
 Fursona ist ein Schachtelwort aus Fur bzw. Furry und Persona und beschreibt ein [*Alter-Ego*](https://de.wikipedia.org/wiki/Alter_Ego). Im weiteren Sinne beinhaltet die Fursona meistens auch die Verwendung eines Nicknames oder Künstlernamens.
 
-## Spikey (SIlberfuchs)
+## Spikey (SIlberfuchs) [ART]
 
-![Spikey - Ref Sheet](https://spikehidden.de/wp-content/uploads/sites/4/2020/09/SpikeReference.png){:height="250px"}
+![Spikey - Ref Sheet](https://spikehidden.de/wp-content/uploads/sites/4/2020/09/SpikeReference.png){:height="250px"}\
+[`by AnnieHyena`](https://www.furaffinity.net/user/anniehyena/)
+
+![Spikey - Christmas Avatar](https://media.discordapp.net/attachments/841270269553278977/1055559409704640592/DALLE_2022-12-22_18.00.34_-_Christmas_background_1.png)
+![Spikey - Polysexual Pride](https://cdn.discordapp.com/attachments/841270269553278977/1055559410203770911/Poly_Spike.png)\
+[`by KatxFish`](https://www.furaffinity.net/user/katx-fish/)
