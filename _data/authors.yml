@@ -1,30 +1,52 @@
 spikey:
-  name   : "Spikey"
-  avatar : "{{ site.data.img64.spikey_avatar_winter }}"
-  bio    : "Ich bin Spikey ein Silberfuchs, welcher regelmäßig Minecraft, Super Animal Royale und viele weitere Games auf Twitch streamt."
-  home   : "/about"
+  name          : "Spikey"
+  avatar        : "{{ site.data.img64.spikey_avatar_winter }}"
+  bio           : "Ich bin Spikey ein Silberfuchs, welcher regelmäßig Minecraft, Super Animal Royale und viele weitere Games auf Twitch streamt."
+  home          : "/about"
+  #Social Links
+  twitter       : spikehidden
+  # facebook      : spikehidden
+  # linkedin      : spikehidden
+  # xing          : spikehidden
+  instagram     : spikehidden
+  # tumblr        : spikehidden
+  # bitbucket     : spikehidden
+  github        : spikehidden
+  # gitlab        : spikehidden
+  # stackoverflow : spikehidden
+  youtube       : spikehidden_mc
+  # lastfm        : spikehidden
+  # dribbble      : spikehidden
+  # pinterest     : spikehidden
+  # foursquare    : spikehidden
+  steam         : spikehidden
+  # soundcloud    : spikehidden
+  # weibo         : spikehidden
+  # flickr        : spikehidden
+  # codepen       : spikehidden
+  # vine          : spikehidden
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://spikehidden.de"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/spikehidden"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/spikehidden"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://red.fox.yt/@spikehidden"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/spikehidden"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/spikehidden"
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/spikehidden"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@spikehidden_mc"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/spikehidden"
+    # - label: "YouTube"
+    #   icon: "fab fa-fw fa-youtube"
+    #   url: "https://youtube.com/@spikehidden_mc"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/spikehidden"
 
 foxcraft:
   name   : "Foxcraft Project"
