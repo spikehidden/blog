@@ -31,6 +31,5 @@ Fursona ist ein Schachtelwort aus Fur bzw. Furry und Persona und beschreibt ein 
 ![Spikey - Ref Sheet](https://spikehidden.de/wp-content/uploads/sites/4/2020/09/SpikeReference.png){:height="250px"}\
 [`by AnnieHyena`](https://www.furaffinity.net/user/anniehyena/)
 
-![Spikey - Christmas Avatar](https://media.discordapp.net/attachments/841270269553278977/1055559409704640592/DALLE_2022-12-22_18.00.34_-_Christmas_background_1.png)
-![Spikey - Polysexual Pride](https://cdn.discordapp.com/attachments/841270269553278977/1055559410203770911/Poly_Spike.png)\
+![Spikey - Christmas Avatar](https://media.discordapp.net/attachments/841270269553278977/1055559409704640592/DALLE_2022-12-22_18.00.34_-_Christmas_background_1.png){:width="50%"}![Spikey - Polysexual Pride](https://cdn.discordapp.com/attachments/841270269553278977/1055559410203770911/Poly_Spike.png){:width="50%"}\
 [`by KatxFish`](https://www.furaffinity.net/user/katx-fish/)
