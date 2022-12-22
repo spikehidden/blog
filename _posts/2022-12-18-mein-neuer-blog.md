@@ -1,7 +1,7 @@
 ---
 title: "Mein neuer Blog!"
 date: 2022-12-18 03:11:35
-# last_modified_at:
+last_modified_at: 2022-12-22 17:39:00
 excerpt_separator: "<!--more-->"
 categories:
   - Allgemein
@@ -16,7 +16,7 @@ Hey Flauschies und Nicht-Flauschies!
 
 Das hier ist der erste Post in meinem Blog, aber jene welche mich bereits kennen Fragen sich wahrscheinlich:
 > "*Warum mache ich überhaupt einen Blog wenn ich mit 
-> [![Foxcraft]({{ site.data.img.logo.foxcraft }}){: height="10" | width="auto" }]({{ site.data.links.foxcraft.site }}),
+> [![Foxcraft]({{ site.data.img.logo.foxcraft }}){: width="150" }]({{ site.data.links.foxcraft.site }}),
 > [Twitch]({{ site.data.links.twitch }}),
 > [YouTube]({{ site.data.links.youtube.minecraft }})
 > und dem
