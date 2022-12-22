@@ -12,7 +12,7 @@ Hi, mein Name ist Spikey/Spike oder auch Spikehidden. Ich bin ein Furry Content 
 > Furries sind Personen, welche ein starkes Interesse (Fan) an *anthropomorphen Tierwesen* in Kunst, Film, Fernsehen und anderen Medien haben. Oder um es simpler auszudrücken. Furries sind Fans Tieren mit menschlichen Eigenschaften wie z.B. in den Filmen *Zoomania (Disney)*, *Robin Hood (Disney)*, *König der Löwen (Disney)*, *Die Gangster Gang (	
 DreamWorks)*.
 
-> Falls du mehr wissen möchtest, kann ich dir ![Furscience](https://furscience.com/wp-content/uploads/2017/06/furscience_colour_x2.png){:width="150"} als (wahrscheinlich einzige) seriöse Quelle empfehlen.\
+> Falls du mehr wissen möchtest, kann ich dir [![Furscience](https://furscience.com/wp-content/uploads/2017/06/furscience_colour_x2.png){:width="150"}](https://furscience.com/) als (wahrscheinlich einzige) seriöse Quelle empfehlen.\
 > Furscience ist ein Team aus Verhaltenforschern von mehreren Universitäten ist und sogar von der kanadischen Regierung finanziert wird.
 
 
