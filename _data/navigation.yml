@@ -7,3 +7,8 @@ main:
     url: /tags/
   - title: "Wer ist Spikey?"
     url: /about/
+  - title: "Impressum"
+    url: /impressum/
+footer:
+  - title: "Impressum"
+    url: /impressum/
