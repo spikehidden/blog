@@ -2,7 +2,8 @@
     "origins": [
         "https://blog.spikehidden.de",
         "https://blog.spikey.biz",
-        "https://blog.spikeyderfuchs.de"
+        "https://blog.spikeyderfuchs.de",
+        "https://stackblitz.com"
     ],
     "defaultCommentOrder": "newest"
 }
